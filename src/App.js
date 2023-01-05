@@ -45,7 +45,7 @@ function App() {
 
         {/*<!--Pie de página-->*/}
         <footer className="footer">
-            &copy; Máster en React - <a href="https://victorroblesweb.es">victorroblesweb.es</a>
+            &copy; Proyecto hecho en React
         </footer>
 
     </div>
